@@ -50,13 +50,13 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:0 tvg-country="UA" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donetsk",Первый республиканский
+#EXTINF:0 tvg-country="UA" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:0 tvg-country="UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donetsk",Новороссия ТВ
+#EXTINF:0 tvg-country="UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donetsk",Оплот ТВ
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donbass",Оплот ТВ
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donetsk",Оплот 2
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/NVnzhiK.jpg" group-title="Abkhazia",Абаза ТВ
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
