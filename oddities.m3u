@@ -58,7 +58,7 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donetsk",Оплот 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Abkhazia",Абаза ТВ
+#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/NVnzhiK.jpg" group-title="Abkhazia",Абаза ТВ
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
