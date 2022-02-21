@@ -34,6 +34,8 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 tvg-country="LU" tvg-logo="https://www.coolstreaming.us/img/ch/image60879018065.jpg" group-title="Luxembourg",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="https://i.imgur.com/D12P8bW.jpg" group-title="Netherlands",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:0 tvg-country="FO" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Faroe Islands",KVF
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
