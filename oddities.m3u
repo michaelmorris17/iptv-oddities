@@ -52,6 +52,8 @@ http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
 https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="AM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/PYhOBrS.png" group-title="Crimea",Крым 24
