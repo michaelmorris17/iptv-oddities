@@ -98,6 +98,8 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:0 tvg-country="MO" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Macau",Canal Macau
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Canada",Uvagut TV
 http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:0 tvg-country="CU" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
