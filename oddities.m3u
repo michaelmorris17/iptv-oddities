@@ -20,7 +20,7 @@ https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 tvg-country="SM" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Euskara",EITB
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Euskara",EiTB
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="Euskara",EiTB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
@@ -48,6 +48,8 @@ https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
 http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
+https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="AM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
