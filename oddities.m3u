@@ -56,6 +56,14 @@ https://stream.unrealhosting.hu:4102/live.m3u8
 rtmp://parh.rtrs.tv/tv/live
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/cXgtTbQ.png" group-title="Bosnia & Herzegovina",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Kosovo",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0 tvg-country="AM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
