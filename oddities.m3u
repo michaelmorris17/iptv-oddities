@@ -77,7 +77,7 @@ http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" group-title="Karachay-Cherkessia",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/iGsKhWv.png" group-title="Dagestan",Дагестан
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
