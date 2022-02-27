@@ -40,6 +40,8 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:0 tvg-country="FO" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Faroe Islands",KVF
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:0 tvg-country="IS" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
+https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
