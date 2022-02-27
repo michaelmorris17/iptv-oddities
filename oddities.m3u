@@ -42,16 +42,6 @@ https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:0 tvg-country="IS" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
-#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:0 tvg-country="BY" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/3qItFtI.png" group-title="Belarus",ОНТ
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",M1
-http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
-http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
 https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
@@ -66,6 +56,16 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/3qItFtI.png" group-title="Belarus",ОНТ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",M1
+http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
+http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
 #EXTINF:0 tvg-country="AM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
