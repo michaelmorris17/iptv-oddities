@@ -86,6 +86,8 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="North Ossetia",Осетия-Ирыстон
+https://s2.cdntv.online/low/emj49rk5cf/432.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
