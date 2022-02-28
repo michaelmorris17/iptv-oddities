@@ -136,7 +136,3 @@ http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 http://190.122.96.187:8888/http/010
 #EXTINF:0 tvg-country="VZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 tvg-country="VZ" tvg-logo="https://i.imgur.com/I59PMCc.png" group-title="Venezuela",VTV
-https://dai.ly/x828i6j
-#EXTINF:0 tvg-country="VZ" tvg-logo="https://i.imgur.com/0Agy1cj.png" group-title="Venezuela",TVes
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
