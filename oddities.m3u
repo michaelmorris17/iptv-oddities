@@ -56,6 +56,10 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/7OwQiAF.jpg" group-title="Belarus",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/OpyoodA.jpg" group-title="Belarus",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/dFdUAx5.jpg" group-title="Belarus",Беларусь 5
