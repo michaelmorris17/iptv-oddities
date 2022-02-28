@@ -30,6 +30,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 tvg-country="AD" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
+https://videos.rtva.ad/live/rtva/index.m3u
 #EXTINF:0 tvg-country="LU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Luxembourg",RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 tvg-country="LU" tvg-logo="https://www.coolstreaming.us/img/ch/image60879018065.jpg" group-title="Luxembourg",RTL Zwee
@@ -40,14 +42,14 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:0 tvg-country="FO" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Faroe Islands",KVF
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:0 tvg-country="IE" tvg-logo="https://i.imgur.com/PtlUYFD.png" group-title="Ireland",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 #EXTINF:0 tvg-country="IS" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
 https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
 rtmp://parh.rtrs.tv/tv/live
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/cXgtTbQ.png" group-title="Bosnia & Herzegovina",RTV Herceg-Bosne
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-country="XK" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Kosovo",RTK 2
@@ -56,22 +58,24 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/cXgtTbQ.png" group-title="Bosnia & Herzegovina",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/7OwQiAF.jpg" group-title="Belarus",Беларусь 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+http://persik.by/stream/7504/377885/10405.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/OpyoodA.jpg" group-title="Belarus",Беларусь 2
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+http://persik.by/stream/7504/377885/10406.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+http://persik.by/stream/7504/377885/10407.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/dFdUAx5.jpg" group-title="Belarus",Беларусь 5
 http://persik.by/stream/7504/377885/10408.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+http://persik.by/stream/7504/377885/10712.m3u8
 #EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/3qItFtI.png" group-title="Belarus",ОНТ
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+http://persik.by/stream/7504/377885/10409.m3u8
 #EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",M1
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0 tvg-country="MD" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
-http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+http://212.0.209.209:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:0 tvg-country="AM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
@@ -86,7 +90,9 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="North Ossetia",Осетия-Ирыстон
+#EXTINF:0 tvg-country="RU" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
+http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
 https://s2.cdntv.online/low/emj49rk5cf/432.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
@@ -128,3 +134,7 @@ http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 http://190.122.96.187:8888/http/010
 #EXTINF:0 tvg-country="VZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 tvg-country="VZ" tvg-logo="https://i.imgur.com/I59PMCc.png" group-title="Venezuela",VTV
+https://dai.ly/x828i6j
+#EXTINF:0 tvg-country="VZ" tvg-logo="https://i.imgur.com/0Agy1cj.png" group-title="Venezuela",TVes
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
