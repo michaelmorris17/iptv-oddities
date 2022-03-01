@@ -118,8 +118,6 @@ https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:0 tvg-country="CY" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png" group-title="Northern Cyprus",BRT 2
 http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
-#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/ORVoir8.png" group-title="Myanmar",MRTV
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:0 tvg-country="ER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
 #EXTINF:0 tvg-country="SO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
