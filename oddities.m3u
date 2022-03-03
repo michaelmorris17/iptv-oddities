@@ -30,7 +30,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Ceuta",Radio Televisión Ceuta
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/index.m3u8
 #EXTINF:0 tvg-country="AD" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
 https://videos.rtva.ad/live/rtva/index.m3u
