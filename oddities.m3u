@@ -133,9 +133,7 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/LDcMz2j.jpg" group-title="Western Sahara",RASD TV
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/COkxauJ.png" group-title="Morocco",Tamazight
-http://red.ipfox.org:8080/1234/12345678/34863
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/YMgG8P9.png" group-title="Algeria",Algerie 4
-http://red.ipfox.org:8080/1234/12345678/34870
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:0 tvg-country="MO" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Macau",Canal Macau
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
