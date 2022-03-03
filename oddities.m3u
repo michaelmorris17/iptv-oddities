@@ -30,6 +30,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Ceuta",Radio Televisión Ceuta
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/index.m3u8
 #EXTINF:0 tvg-country="AD" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
 https://videos.rtva.ad/live/rtva/index.m3u
 #EXTINF:0 tvg-country="LU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Luxembourg",RTL
@@ -116,6 +118,8 @@ https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/JUzK5IK.png" group-title="Turkey",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-country="CY" tvg-logo="https://i.imgur.com/8GocquE.png" group-title="Northern Cyprus",BRT 1
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:0 tvg-country="CY" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png" group-title="Northern Cyprus",BRT 2
