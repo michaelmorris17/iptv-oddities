@@ -21,7 +21,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 #EXTINF:0 tvg-country="SM" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Euskara",EiTB
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="Euskara",EiTB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Catalonia",3/24
@@ -108,6 +108,8 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u
 http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/aSFywEK.png" group-title="North Caucasus",Кавказ 24
 https://radio-live-mg.rtr-vesti.ru/hls2/kavkaz_24/playlist_3.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/M8a2bAs.jpg" group-title="Ingushetia",Ингушетия ТВ
+http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
