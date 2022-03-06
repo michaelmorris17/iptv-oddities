@@ -104,6 +104,8 @@ https://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo-"https://i.imgur.com/LqqlRU6.png" group-title="Kamchatka",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
