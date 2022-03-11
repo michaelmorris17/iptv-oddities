@@ -124,6 +124,8 @@ http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 https://s2.cdntv.online/low/emj49rk5cf/432.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="DonbasOnline.ua" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
