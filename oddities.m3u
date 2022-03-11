@@ -122,6 +122,8 @@ http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
 https://s2.cdntv.online/low/emj49rk5cf/432.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
@@ -138,8 +140,10 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Oplot2.ru" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:0 tvg-country="UA" tvg-id"" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
 http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/SS1JMcT.jpg" group-title="Donbass",Луганск 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/NVnzhiK.jpg" group-title="Abkhazia",Абаза ТВ
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
