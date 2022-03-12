@@ -28,8 +28,10 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="TV3CAT.es" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Catalonia",TV3CAT
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG
+#EXTINF:0 tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG Europa
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="tvG2.es" tvg-logo="https://i.imgur.com/F3cOGmJ.jpg",tvG2
+https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/index.m3u8
 #EXTINF:0 tvg-country="AD" tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
