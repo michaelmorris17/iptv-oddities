@@ -96,7 +96,7 @@ http://video.rionitv.com:9090/hls/live/rioni.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/ciQX4T3.jpg" group-title="Kazakhstan",Хабар 24
 https://sc.id-tv.kz/Khabar_24.m3u8
-#EXTINF:0 tvg-country="KZ" tvg-id="" tvg-logo="https://i.imgur.com/XtCT0FW.jpg" group-title="Kazakhstan",Qazaq TV
+#EXTINF:0 tvg-country="KZ" tvg-id="QazaqTV.kz" tvg-logo="https://i.imgur.com/XtCT0FW.jpg" group-title="Kazakhstan",Qazaq TV
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="UAPershiy.ua" tvg-logo="https://i.imgur.com/BD8I9YU.png" group-title="Ukraine",UA:Перший
 http://91.238.194.116:8030/ntku
@@ -126,7 +126,7 @@ http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
-#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
+#EXTINF:0 tvg-country="RU" tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
