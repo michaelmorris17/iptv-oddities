@@ -90,6 +90,8 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/ciQX4T3.jpg" group-title="Kazakhstan",Хабар 24
@@ -121,7 +123,7 @@ http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
-https://s2.cdntv.online/low/emj49rk5cf/432.m3u8
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
@@ -137,7 +139,7 @@ http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="NovorossiyaTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="OplotTV.ru" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donbass",Оплот ТВ
-http://ott.inmart.tv:8081/54/index.m3u8
+http://31.133.57.158/hls/1234.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Oplot2.ru" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
