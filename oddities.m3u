@@ -136,6 +136,8 @@ http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/c
 https://599da0b457148.streamlock.net:1936/kaskad2/tv/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/RZIqHxR.jpg" group-title="Sakha",Якутия 24
+http://live5-saha.cdnvideo.ru/live/2004.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/VoqsKsC.png" group-title="Sakhalin",АСТВ
