@@ -140,6 +140,8 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 http://live5-saha.cdnvideo.ru/live/2004.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="YamalRegion.ru" tvg-logo="https://i.imgur.com/uE8TrHl.jpg" group-title="Nenets",Ямал ТВ
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregionhd/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/VoqsKsC.png" group-title="Sakhalin",АСТВ
 http://astvlive.gcdn.co/astv24/astv24.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="DonbasOnline.ua" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
