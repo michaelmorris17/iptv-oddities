@@ -53,7 +53,7 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 #EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
-https://streaming.mytvback.com:443/stream/9GnR0D6FywWu9yzT1ZFF9A/1647079905/channel001/stream.m3u8
+http://78.109.104.240:8000/play/a0bs/index.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
@@ -133,7 +133,7 @@ http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/IFsZdcF.jpg" group-title="Kaliningrad",Каскад
-https://599da0b457148.streamlock.net:1936/kaskad2/tv/playlist.m3u8
+https://599da0b457148.streamlock.net:1936/kaskad2/tv/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/RZIqHxR.jpg" group-title="Sakha",Якутия 24
