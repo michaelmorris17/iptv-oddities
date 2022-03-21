@@ -198,5 +198,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:0 tvg-country="CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
 http://190.122.96.187:8888/http/010
+#EXTINF:0 tvg-country="AR" tvg-id="TVPublicaFueguina.ar" tvg-logo="https://i.imgur.com/VksZGKm.png" group-title="Tierra del Fuego",Televisión Pública Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:0 tvg-country="VZ" tvg-id="TelesurEnglish.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
