@@ -40,7 +40,7 @@ https://videos.rtva.ad/live/rtva/index.m3u
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 tvg-country="LU" tvg-id="RTL2.lu" tvg-logo="https://www.coolstreaming.us/img/ch/image60879018065.jpg" group-title="Luxembourg",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 tvg-country="FR" tvg-id="Alsace20.fr" tvg-logo="https://i.imgur.com/qMDpg9P.jpg",Alsace 20
+#EXTINF:0 tvg-country="FR" tvg-id="Alsace20.fr" tvg-logo="https://i.imgur.com/qMDpg9P.jpg" group-title="France",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:0 tvg-country="MC" tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/IcfJm3q.jpg" group-title="Monaco",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
