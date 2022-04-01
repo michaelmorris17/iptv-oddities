@@ -34,6 +34,8 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/index.m3u8
+#EXTINF:0 tvg-country="MT" tvg-id="" tvg-logo="https://i.imgur.com/QlAujCc.png" group-title="Malta",TVM News+
+https://live01.delivery.twentythree.com/live/amlst:iniopfjc75fu7aphpgqpurfemg:71154145-58e9bd481c3251010565.mp4/playlist.m3u8
 #EXTINF:0 tvg-country="AD" tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
 https://videos.rtva.ad/live/rtva/index.m3u
 #EXTINF:0 tvg-country="LU" tvg-id="RTL.lu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Luxembourg",RTL
@@ -53,7 +55,7 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 #EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
-http://78.109.104.240:8000/play/a0bs/index.m3u8
+https://c402-node61-cdn.connectmedia.hu/1100/07825733f73b282e53eaeeb949f26dbf/62461797/03.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
@@ -200,6 +202,14 @@ https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNBMongolynMedee.mn" tvg-logo="https://i.imgur.com/ppxBG6R.jpg",group-title="Mongolia",Монголын Мэдээ
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/lKbD2ZX.png" group-title="Inner Mongolia",内蒙古卫视 (NMTV)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/F5D61Ul.jpg" group-title="Tibet",西藏藏語 (Tibet TV)
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/F5D61Ul.jpg" group-title="Tibet",西藏卫视 (Xizang Satellite TV)
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/XNjXQhm.png" group-title="Xinjiang",新疆卫视 (Xinjiang Satellite TV)
+http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
 #EXTINF:0 tvg-country="CA" tvg-id="CBFT.ca" tvg-logo="https://i.imgur.com/FPoF51E.png" group-title="Canada",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:0 tvg-country="CA" tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/3CC0Rs1.png" group-title="Canada",ICI RDI
