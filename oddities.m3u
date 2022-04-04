@@ -216,6 +216,8 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:0 tvg-country="CA" tvg-id="UvagutTV.ca" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Canada",Uvagut TV
 http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-id="NASATV.us" tvg-logo="https://i.imgur.com/rswIaum.png" group-title="USA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-country="CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
 http://190.122.96.187:8888/http/010
 #EXTINF:0 tvg-country="AR" tvg-id="TVPublicaFueguina.ar" tvg-logo="https://i.imgur.com/VksZGKm.png" group-title="Tierra del Fuego",Televisión Pública Fueguina
