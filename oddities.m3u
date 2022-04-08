@@ -74,6 +74,8 @@ http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BA" tvg-id="RTVHB.ba" tvg-logo="https://i.imgur.com/cXgtTbQ.png" group-title="Bosnia & Herzegovina",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:0 tvg-country="BG" tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/E4secmc.png" group-title="Bulgaria",This Is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
 #EXTINF:0 tvg-country="BY" tvg-id="Belarus1.by" tvg-logo="https://i.imgur.com/7OwQiAF.jpg" group-title="Belarus",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-id="Belarus2.by" tvg-logo="https://i.imgur.com/OpyoodA.jpg" group-title="Belarus",Беларусь 2
