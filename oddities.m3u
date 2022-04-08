@@ -96,14 +96,16 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etv2.m3u8
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/6ft8tR0.jpg" group-title="Georgia",1TV Ganatleba
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/ZWh4iaw.jpg" group-title="Georgia",Rustavi 2
-https://hls.t.stream-dns.net/hls/rustavi2/_b360d192f0e512952e58e6b1a1f6a605_624ccb85x000d/rustavi2.m3u8
+https://hls.t.stream-dns.net/hls/rustavi2/_14eedd588a452f825f540b3d72bb3d51_62534542x000d/rustavi2.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
 http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
-https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+https://streaming.televizia.org/live/hls/9R3KjrDWMKchNHG_qaNzOw/1649458137/rustavi2.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
