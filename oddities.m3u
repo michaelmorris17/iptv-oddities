@@ -48,6 +48,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
 https://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/4fnNV3F.png" group-title="Vojvodina",RTV 1
+mmsh://212.200.255.151/rtv1
+#EXTINF:0 tvg-country="RS" tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/oCIXF9F.png" group-title="Vojvodina",RTV 2
+mmsh://212.200.255.151/rtv2
 #EXTINF:0 tvg-country="BA" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/HbfPguv.png" group-title="Serbia",Sandžak TV
