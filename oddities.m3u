@@ -8,6 +8,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="ETB2.es" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="Euskara",ETB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/UutW62X.png" group-title="Euskara",Hamaika Telebista
+http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="324.es" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Catalonia",3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="TV3CAT.es" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Catalonia",TV3CAT
