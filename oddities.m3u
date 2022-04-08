@@ -1,21 +1,5 @@
 #EXTM3U
 #PLAYLIST:Oddities
-#EXTINF:0 tvg-country="KP" tvg-id="KoreanCentralTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" group-title="North Korea",Korean Central Television (KCTV)
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:0 tvg-country="TM" tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/jxPDapY.png" group-title="Turkmenistan",Altyn Asyr TV
-https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="Yaslyk.tm" tvg-logo="https://i.imgur.com/PK64fa6.png" group-title="Turkmenistan",Ýaşlyk TV
-https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/jL8SzED.png" group-title="Turkmenistan",Miras
-https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/t44c6J0.png" group-title="Turkmenistan",Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/zuO98pY.png" group-title="Turkmenistan",Türkmen Owazy
-https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="Asgabat.tm" tvg-logo="https://i.imgur.com/tXyS5l0.png" group-title="Turkmenistan",Aşgabat TV
-https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
-#EXTINF:0 tvg-country="TM" tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/cmjDco7.png" group-title="Turkmenistan",Türkmenistan TV
-https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:0 tvg-country="SM" tvg-id="SanMarinoRTV.sm" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title="San Marino",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 tvg-country="SM" tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",RTV Sport
@@ -194,18 +178,20 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="BRT2.cy" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png" group-title="Northern Cyprus",BRT 2
 http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
-#EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
-#EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
-#EXTINF:0 tvg-country="GQ" tvg-id="TVGEInternacional.gq" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
-#EXTINF:0 tvg-country="EH" tvg-id="RASDTV.eh" tvg-logo="https://i.imgur.com/LDcMz2j.jpg" group-title="Western Sahara",RASD TV
-https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
-#EXTINF:0 tvg-country="MA" tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/COkxauJ.png" group-title="Morocco",Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:0 tvg-country="MO" tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Macau",Canal Macau
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/jxPDapY.png" group-title="Turkmenistan",Altyn Asyr TV
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Yaslyk.tm" tvg-logo="https://i.imgur.com/PK64fa6.png" group-title="Turkmenistan",Ýaşlyk TV
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/jL8SzED.png" group-title="Turkmenistan",Miras
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/t44c6J0.png" group-title="Turkmenistan",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/zuO98pY.png" group-title="Turkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Asgabat.tm" tvg-logo="https://i.imgur.com/tXyS5l0.png" group-title="Turkmenistan",Aşgabat TV
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/cmjDco7.png" group-title="Turkmenistan",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
@@ -224,6 +210,10 @@ http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/XNjXQhm.png" group-title="Xinjiang",新疆卫视 (Xinjiang Satellite TV)
 http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:0 tvg-country="MO" tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Macau",Canal Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 tvg-country="KP" tvg-id="KoreanCentralTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" group-title="North Korea",Korean Central Television (KCTV)
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0 tvg-country="CA" tvg-id="CBFT.ca" tvg-logo="https://i.imgur.com/FPoF51E.png" group-title="Canada",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:0 tvg-country="CA" tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/3CC0Rs1.png" group-title="Canada",ICI RDI
@@ -244,3 +234,13 @@ https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:0 tvg-country="VZ" tvg-id="TelesurEnglish.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
+#EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
+#EXTINF:0 tvg-country="GQ" tvg-id="TVGEInternacional.gq" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:0 tvg-country="EH" tvg-id="RASDTV.eh" tvg-logo="https://i.imgur.com/LDcMz2j.jpg" group-title="Western Sahara",RASD TV
+https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
+#EXTINF:0 tvg-country="MA" tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/COkxauJ.png" group-title="Morocco",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
