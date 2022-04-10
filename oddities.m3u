@@ -20,6 +20,8 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="RadioTelevisionMelilla.es" tvg-logo="https://i.imgur.com/aWkj75x.png" group-title="Melilla",Televisión Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="AD" tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
 https://videos.rtva.ad/live/rtva/index.m3u
 #EXTINF:0 tvg-country="LU" tvg-id="RTL.lu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Luxembourg",RTL
