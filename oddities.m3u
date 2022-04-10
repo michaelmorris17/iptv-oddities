@@ -116,6 +116,8 @@ https://sc.id-tv.kz/Khabar_24.m3u8
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="UAPershiy.ua" tvg-logo="https://i.imgur.com/BD8I9YU.png" group-title="Ukraine",UA:Перший
 http://91.238.194.116:8030/ntku
+#EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="1Krim.ru" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="24Krim.ru" tvg-logo="https://i.imgur.com/PYhOBrS.png" group-title="Crimea",Крым 24
@@ -130,8 +132,6 @@ https://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="GTRKGroznyj.ru" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
-#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/LqqlRU6.png" group-title="Kamchatka",Камчатка 1
-http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kuban24Orbita.ru" tvg-logo="https://i.imgur.com/vtHWPuI.jpg" group-title="North Caucasus",Кубань 24
 http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/aSFywEK.png" group-title="North Caucasus",Кавказ 24
@@ -146,16 +146,24 @@ http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.vestikaliningrad:20101
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/IFsZdcF.jpg" group-title="Kaliningrad",Каскад
 https://599da0b457148.streamlock.net:1936/kaskad2/tv/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/S1g0Hg7.jpg" group-title="Far Eastern Federal District (Russia)",Восток 24
+http://109.126.27.2:6484/v24/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/RZIqHxR.jpg" group-title="Sakha",Якутия 24
 http://live5-saha.cdnvideo.ru/live/2004.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/Nqlv73L.png" group-title="Sakha",Алмазный край
+https://stream.almaz-media.tv:8080/hls/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="YamalRegion.ru" tvg-logo="https://i.imgur.com/uE8TrHl.jpg" group-title="Nenets",Ямал ТВ
 http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregionhd/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/LqqlRU6.png" group-title="Kamchatka",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/VoqsKsC.png" group-title="Sakhalin",АСТВ
 http://astvlive.gcdn.co/astv24/astv24.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/Swze2VF.png" group-title="Khabarovsk Krai",Губерния Хабаровск
+https://media1.gubernia.com/hls/live.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="DonbasOnline.ua" tvg-logo="https://www.donbas-online.com/wp-content/uploads/2020/01/%D0%94%D0%9E-1.png" group-title="Donbass",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
