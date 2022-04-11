@@ -188,6 +188,8 @@ http://iptv.aimadara.com/225.1.110.1/index.m3u8
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/0kcsIBg.png" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
+http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
