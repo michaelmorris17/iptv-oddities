@@ -224,7 +224,7 @@ http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="" tvg-logo="https://i.imgur.com/oVtNriw.png" group-title="Mongolia",MNB Гэр бүл
 https://live.mnb.mn/live/mnb_family.stream/index.m3u8
-#EXTINF:0 tvg-country="MN" tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/HKDu7cw.jpg",group-title="Mongolia",MNB Спорт
+#EXTINF:0 tvg-country="MN" tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/HKDu7cw.jpg" group-title="Mongolia",MNB Спорт
 https://live.mnb.mn/live/mnb_sport.stream/index.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="TV5.mn" tvg-logo="https://i.imgur.com/TUazcc5.jpg" group-title="Mongolia",TV5
 http://d1qwew1jz60jqg.cloudfront.net/MYASIATV/TV5/chunklist.m3u8
