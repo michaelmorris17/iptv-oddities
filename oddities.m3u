@@ -111,7 +111,7 @@ https://hls.t.stream-dns.net/hls/rustavi2/_14eedd588a452f825f540b3d72bb3d51_6253
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
 http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
-https://streaming.televizia.org/live/hls/9R3KjrDWMKchNHG_qaNzOw/1649458137/rustavi2.m3u8
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
