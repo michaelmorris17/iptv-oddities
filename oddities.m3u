@@ -135,7 +135,7 @@ https://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="RGVKDagestan.ru" tvg-logo="https://i.imgur.com/iGsKhWv.png" group-title="Dagestan",Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="GTRKGroznyj.ru" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kuban24Orbita.ru" tvg-logo="https://i.imgur.com/vtHWPuI.jpg" group-title="North Caucasus",Кубань 24
 http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/aSFywEK.png" group-title="North Caucasus",Кавказ 24
