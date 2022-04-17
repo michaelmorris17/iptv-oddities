@@ -120,8 +120,6 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqs
 https://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="QazaqTV.kz" tvg-logo="https://i.imgur.com/XtCT0FW.jpg" group-title="Kazakhstan",Qazaq TV
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:0 tvg-country="UA" tvg-id="UAPershiy.ua" tvg-logo="https://i.imgur.com/BD8I9YU.png" group-title="Ukraine",UA:Перший
-http://91.238.194.116:8030/ntku
 #EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="1Krim.ru" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
