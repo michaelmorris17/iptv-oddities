@@ -284,3 +284,5 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:0 tvg-country="MA" tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/COkxauJ.png" group-title="Morocco",Tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0 tvg-country="NZ" tvg-id="MaoriTV.nz" tvg-logo="https://i.imgur.com/vqwsDmd.png" group-title="New Zealand",Māori Television
+https://i.mjh.nz/nz/tv.13.m3u8
