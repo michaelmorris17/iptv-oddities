@@ -218,6 +218,8 @@ https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
 http://51.210.227.133/hls/stream.m3u8
+#EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNB.mn" tvg-logo="https://i.imgur.com/puxS9Sa.jpg" group-title="Mongolia",МҮОНТ-1
@@ -250,6 +252,14 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-id="NASATV.us" tvg-logo="https://i.imgur.com/rswIaum.png" group-title="USA",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 tvg-country="AW" tvg-id="Telearuba.aw" tvg-logo="https://i.imgur.com/Qkcq0BW.png" group-title="Aruba",Telearuba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CW" tvg-id="TeleCuracao.cw" tvg-logo="https://i.imgur.com/zNLoQ3g.jpg" group-title="Curaçao",TeleCuraçao
+http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
+#EXTINF:0 tvg-country="KN" tvg-id="" tvg-logo="https://i.imgur.com/szllifw.jpg" group-title="St. Kitts & Nevis",ZIZ
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/index.m3u8
+#EXTINF:0 tvg-country="VG" tvg-id="" tvg-logo="https://i.imgur.com/O8FJirJ.jpg" group-title="British Virgin Islands",CBN
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/index.m3u8
 #EXTINF:0 tvg-country="CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
 http://190.122.96.187:8888/http/010
 #EXTINF:0 tvg-country="BO" tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/gUAeTmw.jpg" group-title="Bolivia",Bolivia TV
