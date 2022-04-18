@@ -116,6 +116,8 @@ https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-id="" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/ciQX4T3.jpg" group-title="Kazakhstan",Хабар 24
 https://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="QazaqTV.kz" tvg-logo="https://i.imgur.com/XtCT0FW.jpg" group-title="Kazakhstan",Qazaq TV
