@@ -40,6 +40,8 @@ http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/720p/prog_index.
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:0 tvg-country="UK" tvg-id="S4C.uk" tvg-logo="https://i.imgur.com/GKcMzG0.png" group-title="Wales",S4C
 http://45.153.35.224:8000/play/a00p
+#EXTINF:0 tvg-country="UK" tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/r09p7Nz.png" group-title="Scotland",BBC Alba
+http://92.246.85.118:9999/play/a044/index.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="TG4.ie" tvg-logo="https://i.imgur.com/PtlUYFD.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 #EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
