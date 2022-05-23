@@ -103,11 +103,11 @@ http://212.0.209.209:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
-https://errstreams4.cdn.eurovisioncdn.net/live/etv.m3u8
+http://sb.err.ee/live/etv.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/NJwia1H.png" group-title="Estonia",ETV2
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2.m3u8
+http://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss.m3u8
+http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
@@ -201,7 +201,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
-http://origin5.mediacdn.ru/live/nostalgia/index.m3u8
+http://46.174.83.66/Retro/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
