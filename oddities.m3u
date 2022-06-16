@@ -118,6 +118,8 @@ http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 https://hls.t.stream-dns.net/hls/rustavi2/_14eedd588a452f825f540b3d72bb3d51_62534542x000d/rustavi2.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
 http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="AjaraTV.ge" tvg-logo="http://epg.it999.ru/img/2567.png" group-title="Georgia",Ajara TV
+http://188.93.94.140/adjara/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
@@ -201,7 +203,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
-http://77.75.12.155:81/udp/239.195.5.5:1234
+http://178.217.72.66:8080/225.201.2.17/video.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
