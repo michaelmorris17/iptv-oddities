@@ -276,8 +276,16 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/index.m3u8
 #EXTINF:0 tvg-country="VG" tvg-id="" tvg-logo="https://i.imgur.com/O8FJirJ.jpg" group-title="British Virgin Islands",CBN
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="CubaVision.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Cuba",CubaVision
+http://177.52.221.214:8000/play/a0dc/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="TeleRebelde.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TELEREBELDE_2011.png" group-title="Cuba",Tele Rebelde
+http://177.52.221.214:8000/play/a0dd/index.m3u8
 #EXTINF:0 tvg-country="CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
 http://190.122.96.187:8888/http/010
+#EXTINF:0 tvg-country="CU" tvg-id="CanalEducativo.cu" tvg-logo="https://i.imgur.com/1cBeOEh.png" group-title="Cuba",Canal Educativo
+http://177.52.221.214:8000/play/a0dw/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="CanalEducativo2.cu" tvg-logo="https://i.imgur.com/nrfB7Ql.png" group-title="Cuba",Canal Educativo 2
+http://177.52.221.214:8000/play/a0dx/index.m3u8
 #EXTINF:0 tvg-country="BO" tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/gUAeTmw.jpg" group-title="Bolivia",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="CL" tvg-id="ITVPatagonia.cl" tvg-logo="https://i.imgur.com/bGPk8Hp.png" group-title="Chile",ITV Patagonia
