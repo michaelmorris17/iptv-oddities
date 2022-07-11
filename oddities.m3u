@@ -270,6 +270,8 @@ http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-country="AW" tvg-id="Telearuba.aw" tvg-logo="https://i.imgur.com/Qkcq0BW.png" group-title="Aruba",Telearuba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BQ" tvg-id="NosTVBonaire.bq" tvg-logo="https://i.imgur.com/AxD4cVM.png" group-title="Bonaire",Nos TV Bonaire 
+http://streaming.flamingotv.net/nostv/live.m3u8
 #EXTINF:0 tvg-country="CW" tvg-id="TeleCuracao.cw" tvg-logo="https://i.imgur.com/zNLoQ3g.jpg" group-title="Curaçao",TeleCuraçao
 http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
 #EXTINF:0 tvg-country="KN" tvg-id="" tvg-logo="https://i.imgur.com/szllifw.jpg" group-title="St. Kitts & Nevis",ZIZ
