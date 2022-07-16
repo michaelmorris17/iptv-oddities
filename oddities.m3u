@@ -211,9 +211,9 @@ https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:0 tvg-country="TR" tvg-id="TRTAvaz.tr" tvg-logo="https://i.imgur.com/JUzK5IK.png" group-title="Turkey",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="BRT1.cy" tvg-logo="https://i.imgur.com/8GocquE.png" group-title="Northern Cyprus",BRT 1
-http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="BRT2.cy" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png" group-title="Northern Cyprus",BRT 2
-http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/8SW6jIc.png" group-title="Cyprus",ΡΙΚ Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:0 tvg-country="TM" tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/jxPDapY.png" group-title="Turkmenistan",Altyn Asyr TV
