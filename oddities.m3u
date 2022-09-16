@@ -205,7 +205,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
-http://178.217.72.66:8080/225.201.2.17/video.m3u8
+http://213.172.73.170:8081/nimble_live/1067__Nostalgiya/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
