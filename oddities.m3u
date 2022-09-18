@@ -110,7 +110,7 @@ http://sb.err.ee/live/etv.m3u8
 http://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
 http://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Public_Television_of_Armenia_logo.jpg/330px-Public_Television_of_Armenia_logo.jpg" group-title="Armenia",Armenia 1
+#EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
@@ -126,6 +126,8 @@ http://188.93.94.140/adjara/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%8
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/laZNl3R.jpg",AZTV
+http://176.9.48.60:23055/play/a03q
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD International
