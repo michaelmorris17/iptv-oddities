@@ -11,7 +11,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/UutW62X.png" group-title="Euskara",Hamaika Telebista
 http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="324.es" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Catalonia",3/24
-https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_3.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="TV3CAT.es" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Catalonia",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG Europa
