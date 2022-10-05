@@ -54,6 +54,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=oGbMiKcho3A
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/JCoXAQx.png" group-title="Serbia",RTS 1
+rtsp://92.60.230.206:554/rts1_72h
+#EXTINF:0 tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/DmpytDV.png" group-title="Serbia",RTS 2
+rtsp://92.60.230.206:554/rts2_72h
+#EXTINF:0 tvg-country="RS" tvg-id="RTS3.rs" tvg-logo="https://i.imgur.com/xFwST0x.png" group-title="Serbia",RTS 3
+rtsp://92.60.230.206:554/rts3_72h
 #EXTINF:0 tvg-country="RS" tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/4fnNV3F.png" group-title="Vojvodina",RTV 1
 mmsh://212.200.255.151/rtv1
 #EXTINF:0 tvg-country="RS" tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/oCIXF9F.png" group-title="Vojvodina",RTV 2
@@ -310,6 +316,8 @@ https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:0 tvg-country="VZ" tvg-id="TelesurEnglish.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 tvg-country="VZ" tvg-id="VenezolanadeTelevision.ve" tvg-logo="https://i.imgur.com/RlbYtzp.png",Venezolana de Televisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
 #EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
