@@ -116,6 +116,8 @@ http://sb.err.ee/live/etv.m3u8
 http://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
 http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png",LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
@@ -144,6 +146,8 @@ https://sc.id-tv.kz/Khabar_24.m3u8
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="TV21Ungvar.ua" tvg-logo="https://i.imgur.com/pYgrdnV.jpg" group-title="Ukraine",TV21 Ungvár
+rtmp://213.174.8.15:1935/live/danio
 #EXTINF:0 tvg-country="RU" tvg-id="1Krim.ru" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="24Krim.ru" tvg-logo="https://i.imgur.com/PYhOBrS.png" group-title="Crimea",Крым 24
@@ -253,7 +257,7 @@ https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BfeRFnn.jpg" group-title="Cambodia",TVK2
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/playlist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNB.mn" tvg-logo="https://i.imgur.com/puxS9Sa.jpg" group-title="Mongolia",МҮОНТ-1
-http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
+https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNBMongolynMedee.mn" tvg-logo="https://i.imgur.com/ppxBG6R.jpg" group-title="Mongolia",Монголын Мэдээ
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="" tvg-logo="https://i.imgur.com/oVtNriw.png" group-title="Mongolia",MNB Гэр бүл
@@ -261,7 +265,7 @@ https://live.mnb.mn/live/mnb_family.stream/index.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/HKDu7cw.jpg" group-title="Mongolia",MNB Спорт
 https://live.mnb.mn/live/mnb_sport.stream/index.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="TV5.mn" tvg-logo="https://i.imgur.com/TUazcc5.jpg" group-title="Mongolia",TV5
-http://d1qwew1jz60jqg.cloudfront.net/MYASIATV/TV5/chunklist.m3u8
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
 #EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/lKbD2ZX.png" group-title="Inner Mongolia",内蒙古卫视 (NMTV)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/F5D61Ul.jpg" group-title="Tibet",西藏藏語 (Tibet TV)
