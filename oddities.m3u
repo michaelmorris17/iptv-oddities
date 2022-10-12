@@ -242,9 +242,9 @@ https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 #EXTINF:0 tvg-country="TM" tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/cmjDco7.png" group-title="Turkmenistan",Türkmenistan TV
 https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
-#EXTINF:0,tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston
+#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston
 http://mhd109.iptv2022.com/p/tmjytq9R633rJkGy9zvPoA,1659423082/streaming/uzbekistan/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:0,tvg-country="UZ" tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/XzSMgPL.png" group-title="Uzbekistan",Toshkent
+#EXTINF:0 tvg-country="UZ" tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/XzSMgPL.png" group-title="Uzbekistan",Toshkent
 http://mhd219.iptv2022.com/p/RGQiSke0CXTwHTj5ozXGKQ,1659367219/streaming/toshkent/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
 http://51.210.227.133/hls/stream.m3u8
