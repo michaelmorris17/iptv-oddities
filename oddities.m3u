@@ -50,6 +50,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6D225YIMCwVBiBktEeV-vQ/live
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=oGbMiKcho3A
+#EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/JCoXAQx.png" group-title="Serbia",RTS 1
