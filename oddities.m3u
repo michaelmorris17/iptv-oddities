@@ -148,6 +148,8 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="TV21Ungvar.ua" tvg-logo="https://i.imgur.com/pYgrdnV.jpg" group-title="Ukraine",TV21 Ungvár
 rtmp://213.174.8.15:1935/live/danio
+#EXTINF:0 tvg-country="UA" tvg-id="UATV.ua" tvg-logo="https://i.imgur.com/CrDP2f1.png" group-title="Ukraine",Freedom
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/lwoNKeD.jpg" group-title="Ukraine",Первый Харьковский
 https://live.26region.tv/app3/stream_bypass/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://zapnews.ru/wp-content/themes/zapnews/images/logo_zatv.svg" group-title="Ukraine",За!
