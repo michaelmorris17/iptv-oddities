@@ -53,7 +53,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+http://141.136.165.222:9981/stream/channelid/1286054952
 #EXTINF:0 tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/JCoXAQx.png" group-title="Serbia",RTS 1
 rtsp://92.60.230.206:554/rts1_72h
 #EXTINF:0 tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/DmpytDV.png" group-title="Serbia",RTS 2
@@ -150,6 +150,8 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/lwoNKeD.jpg" group-title="Ukraine",Первый Харьковский
 https://live.26region.tv/app3/stream_bypass/playlist.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://zapnews.ru/wp-content/themes/zapnews/images/logo_zatv.svg" group-title="Ukraine",За!
+https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="NovorossiyaTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
@@ -258,6 +260,8 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5876
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BfeRFnn.jpg" group-title="Cambodia",TVK2
