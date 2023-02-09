@@ -338,6 +338,8 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:0 tvg-country="VZ" tvg-id="VenezolanadeTelevision.ve" tvg-logo="https://i.imgur.com/RlbYtzp.png",Venezolana de Televisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
+#EXTINF:0 tvg-country="ET" tvg-id="ETVEntertainment.et" tvg-logo="https://i.imgur.com/eprtGAB.jpg",ETV Entertainment
+https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
 #EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
 #EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
