@@ -156,6 +156,8 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 https://live.26region.tv/app3/stream_bypass/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://zapnews.ru/wp-content/themes/zapnews/images/logo_zatv.svg" group-title="Ukraine",За!
 https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/35g8MKN.jpg" group-title="Ukraine",Таврия ТВ
+https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="NovorossiyaTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
