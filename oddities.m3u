@@ -120,7 +120,7 @@ http://sb.err.ee/live/etv.m3u8
 http://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
 http://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png",LRT Lituanica
+#EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png" group-title="Lithuania",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
@@ -136,9 +136,9 @@ http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 http://188.93.94.140/adjara/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
-#EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png",Rioni TV
+#EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png" group-title="Georgia",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
-#EXTINF:0 tvg-country="AZ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/laZNl3R.jpg",AZTV
+#EXTINF:0 tvg-country="AZ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/laZNl3R.jpg" group-title="Azerbaijan",AZTV
 http://176.9.48.60:23055/play/a03q
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
@@ -246,8 +246,10 @@ http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/8SW6jIc.png" group-title="Cyprus",ΡΙΚ Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:0 tvg-country="PS" tvg-id="AlAqsaTV.ps" tvg-logo-="https://i.imgur.com/Z2rfrQ8.png" group-title="Palestine",Al Aqsa
+#EXTINF:0 tvg-country="PS" tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Palestine",Al Aqsa
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 tvg-country="LB" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
+https://manar.live/iptv/playlist.m3u8
 #EXTINF:0 tvg-country="TM" tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/jxPDapY.png" group-title="Turkmenistan",Altyn Asyr TV
 https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
 #EXTINF:0 tvg-country="TM" tvg-id="Yaslyk.tm" tvg-logo="https://i.imgur.com/PK64fa6.png" group-title="Turkmenistan",Ýaşlyk TV
