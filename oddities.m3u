@@ -183,7 +183,7 @@ http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Arhyz24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" group-title="Karachay-Cherkessia",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="ChuvashEn.ru" tvg-logo="https://i.imgur.com/hxCYIqq.png" group-title="Chuvash Republic",Чӑваш ен
-https://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
+https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="RGVKDagestan.ru" tvg-logo="https://i.imgur.com/iGsKhWv.png" group-title="Dagestan",Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="GTRKGroznyj.ru" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
