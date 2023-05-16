@@ -246,9 +246,9 @@ http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:0 tvg-country="CY" tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/8SW6jIc.png" group-title="Cyprus",ΡΙΚ Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:0,tvg-country="MT" tvg-id="TVM.mt" tvg-logo="https://i.imgur.com/kpe0fYu.png" group-title="Malta",TVM
+#EXTINF:0 tvg-country="MT" tvg-id="TVM.mt" tvg-logo="https://i.imgur.com/kpe0fYu.png" group-title="Malta",TVM
 http://92.251.24.249:8000/play/a002/index.m3u8
-#EXTINF:0,tvg-country="MT" tvg-id="TVMnewsPlus.mt" tvg-logo="https://i.imgur.com/CFcst4g.png" group-title="Malta",TVMnews+
+#EXTINF:0 tvg-country="MT" tvg-id="TVMnewsPlus.mt" tvg-logo="https://i.imgur.com/CFcst4g.png" group-title="Malta",TVMnews+
 http://92.251.24.249:8000/play/a005/index.m3u8
 #EXTINF:0 tvg-country="IL" tvg-id="Channel13.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/800px-New_Logo_13_2022.jpg" group-title="Israel",Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
