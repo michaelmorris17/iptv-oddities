@@ -284,6 +284,12 @@ http://51.210.227.133/hls/stream.m3u8
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="MRTV.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png" group-title="Myanmar",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="MRTV4.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png" group-title="Myanmar",MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png" group-title="Myanmar",MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BfeRFnn.jpg" group-title="Cambodia",TVK2
