@@ -19,7 +19,7 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="tvG2.es" tvg-logo="https://i.imgur.com/F3cOGmJ.jpg",tvG2
 https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
-https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/chunklist_b4000000.m3u8
+https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="RadioTelevisionMelilla.es" tvg-logo="https://i.imgur.com/aWkj75x.png" group-title="Melilla",Televisión Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="AD" tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
@@ -45,11 +45,11 @@ https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3_2000_.m3u8
 #EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="GL" tvg-id="KNR1.gl" tvg-logo="https://i.imgur.com/Erfu5ij.png" group-title="Greenland",KNR1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCIjOAtv53RHerlfl98fZmcQ/live
+https://ythls.onrender.com/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
 #EXTINF:0 tvg-country="GL" tvg-id="KNR2.gl" tvg-logo="https://i.imgur.com/m1CXvPQ.jpg" group-title="Greenland",KNR2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6D225YIMCwVBiBktEeV-vQ/live
+https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=oGbMiKcho3A
+http://185.143.48.52:4242/bysid/100
 #EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
