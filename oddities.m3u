@@ -131,7 +131,7 @@ http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/ZWh4iaw.jpg" group-title="Georgia",Rustavi 2
 https://hls.t.stream-dns.net/hls/rustavi2/_14eedd588a452f825f540b3d72bb3d51_62534542x000d/rustavi2.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
-http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="AjaraTV.ge" tvg-logo="http://epg.it999.ru/img/2567.png" group-title="Georgia",Ajara TV
 http://188.93.94.140/adjara/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
@@ -145,7 +145,7 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqs
 #EXTINF:0 tvg-country="KZ" tvg-id="" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/ciQX4T3.jpg" group-title="Kazakhstan",Хабар 24
-https://sc.id-tv.kz/Khabar_24.m3u8
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="JibekJoly.kz" tvg-logo="https://ptrk.kz/wp-content/uploads/2023/01/jj-600.png" group-title="Kazakhstan",Jibek Joly (ENG)
 http://ikomg3.mmdlive.lldns.net/ikomg3/d4c3d429111741509dbd16cd1bc7b543/manifest.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
@@ -175,9 +175,9 @@ https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/T8EDzqx.png" group-title="Donbass",6 ТВ
 http://91.237.3.3:4022/udp/224.2.2.4:10000
 #EXTINF:0 tvg-country="RU" tvg-id="1Krim.ru" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+https://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="24Krim.ru" tvg-logo="https://i.imgur.com/PYhOBrS.png" group-title="Crimea",Крым 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+https://live24.trkcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Millet.ru" tvg-logo="https://i.imgur.com/JkSQS79.png" group-title="Crimea",Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Arhyz24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" group-title="Karachay-Cherkessia",Архыз 24
@@ -209,7 +209,7 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/RZIqHxR.jpg" group-title="Sakha",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/Nqlv73L.png" group-title="Sakha",Алмазный край
-https://stream.almaz-media.tv:8080/hls/playlist.m3u8
+https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="YamalRegion.ru" tvg-logo="https://i.imgur.com/uE8TrHl.jpg" group-title="Nenets",Ямал ТВ
