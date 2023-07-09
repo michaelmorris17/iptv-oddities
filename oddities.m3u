@@ -55,7 +55,7 @@ http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
 http://37.18.239.37:8000/play/14/index.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/JCoXAQx.png" group-title="Serbia",RTS 1
-rtsp://92.60.230.206:554/rts1_72h
+http://212.200.164.212:8080/RTS_1/index.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/DmpytDV.png" group-title="Serbia",RTS 2
 rtsp://92.60.230.206:554/rts2_72h
 #EXTINF:0 tvg-country="RS" tvg-id="RTS3.rs" tvg-logo="https://i.imgur.com/xFwST0x.png" group-title="Serbia",RTS 3
