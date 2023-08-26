@@ -233,7 +233,7 @@ http://91.207.180.142/gagra_tv/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/0kcsIBg.png" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Russia",Звезда Плюс
-http://146.158.0.56/ZvezdaPlus/mono.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
@@ -285,7 +285,7 @@ http://mhd219.iptv2022.com/p/RGQiSke0CXTwHTj5ozXGKQ,1659367219/streaming/toshken
 #EXTINF:0 tvg-country="TJ" tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/9WVoaHl.jpg" group-title="Tajikistan",Tojikiston
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5876
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
-http://51.210.227.133/hls/stream.m3u8
+https://hls.rta.live/hls/stream.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
