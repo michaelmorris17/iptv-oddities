@@ -50,6 +50,8 @@ https://ythls.onrender.com/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
 https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
 http://185.143.48.52:4242/bysid/100
+#EXTINF:0 tvg-country="HU" tvg-id="DikhTV.hu" tvg-logo="https://tematicmediagroup.com/en/images_channels/dikh.jpg" group-title="Hungary",Dikh TV
+https://nettv.flynet.hu/live/dikhtv.m3u8
 #EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
