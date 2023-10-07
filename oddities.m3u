@@ -28,7 +28,7 @@ https://videos.rtva.ad/live/rtva/index.m3u
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 tvg-country="LU" tvg-id="RTL2.lu" tvg-logo="https://www.coolstreaming.us/img/ch/image60879018065.jpg" group-title="Luxembourg",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 tvg-country="MC" tvg-id="TVMonaco.mc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/1920px-TVMonaco_2023.svg.png" group-title="Monaco",Monaco Info
+#EXTINF:0 tvg-country="MC" tvg-id="TVMonaco.mc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/1920px-TVMonaco_2023.svg.png" group-title="Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2024/media.m3u8
 #EXTINF:0 tvg-country="MC" tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/IcfJm3q.jpg" group-title="Monaco",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
