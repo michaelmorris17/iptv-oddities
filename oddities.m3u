@@ -43,7 +43,7 @@ http://45.153.35.224:8000/play/a00p
 #EXTINF:0 tvg-country="UK" tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/r09p7Nz.png" group-title="Scotland",BBC Alba
 http://51.195.5.44:8080/amc/index.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="TG4.ie" tvg-logo="https://i.imgur.com/PtlUYFD.png" group-title="Ireland",TG4
-https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3_2000_.m3u8
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:0 tvg-country="GL" tvg-id="KNR1.gl" tvg-logo="https://i.imgur.com/Erfu5ij.png" group-title="Greenland",KNR1
