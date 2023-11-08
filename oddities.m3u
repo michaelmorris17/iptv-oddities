@@ -78,7 +78,7 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/HbfPguv.png" group-title="Serbia",Sandžak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-#EXTINF:0 tvg-country="XK" tvg-id="" tvg-logo="https://i.imgur.com/eI0RTLb.png" group-title="Kosovo",Dankos TV
+#EXTINF:0 tvg-country="XK" tvg-id="Dankosplus.rs" tvg-logo="https://i.imgur.com/eI0RTLb.png" group-title="Kosovo",Dankos TV
 http://46.19.227.130:4500/play/a04c/index.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="RTK1.xk" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
@@ -130,6 +130,8 @@ http://sb.err.ee/live/etv.m3u8
 http://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
 http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0 tvg-country="LV" tvg-id="LTV1.lv" tvg-logo="https://ltv.lsm.lv/storage/editor-files/9/6/3dd128fcb40fa72f46d4719a64309aa4.png" group-title="Latvia",LTV1
+http://89.254.128.5:22280/ltv1_hd/video.m3u8
 #EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png" group-title="Lithuania",LRT Lituanica
 https://lituanica.lrt.lt/lituanica/master.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
@@ -177,7 +179,7 @@ http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="OplotTV.ru" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donbass",Оплот ТВ
 http://31.133.57.158/hls/1234.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Oplot2.ru" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
-http://ott.inmart.tv:8081/17/index.m3u8
+http://92.242.110.52:9835/udp/238.1.12.12:1234
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/SS1JMcT.jpg" group-title="Donbass",Луганск 24
@@ -236,6 +238,8 @@ http://iptv.aimadara.com/225.1.110.1/index.m3u8
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="https://i.imgur.com/W49oOVz.png" group-title="Abkhazia",Гагра ТВ
 http://91.207.180.142/gagra_tv/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="" group-title="Abkhazia",Apsny Music TV
+https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-112/dgl6-6o7n_1080p/chunklist_DVR.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/0kcsIBg.png" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Russia",Звезда Плюс
@@ -264,6 +268,8 @@ http://92.251.24.249:8000/play/a005/index.m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-country="IL" tvg-id="Makan33.il" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="Israel",Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
+#EXTINF:0 tvg-country="IL" tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png" group-title="Israel",Channel 9
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 #EXTINF:0 tvg-country="PS" tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Palestine",Al Aqsa
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-country="LB" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
