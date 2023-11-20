@@ -274,7 +274,7 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-country="LB" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://manar.live/iptv/playlist.m3u8
-#EXTINF:0 tvg-country="KG" tvg-id="UTRK.kg",tvg-logo="https://i.imgur.com/Q60iqZP.png" group-title=Kyrgyzstan" УТРК Кыргызстан
+#EXTINF:0 tvg-country="KG" tvg-id="UTRK.kg" tvg-logo="https://i.imgur.com/Q60iqZP.png" group-title=Kyrgyzstan", УТРК Кыргызстан
 https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8
 #EXTINF:0 tvg-country="KG" tvg-id="AlaToo24.kg" tvg-logo="https://i.imgur.com/KhBFY8l.png" group-title=Kyrgyzstan",Ала-тоо 24
 https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8
