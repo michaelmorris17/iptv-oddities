@@ -209,7 +209,7 @@ http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
-http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+http://osir.mediacdn.ru/cdn/osetia/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/IFsZdcF.jpg" group-title="Kaliningrad",Каскад
