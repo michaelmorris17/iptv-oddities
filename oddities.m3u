@@ -141,7 +141,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/6ft8tR0.jpg" group-title="Georgia",1TV Ganatleba
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/ZWh4iaw.jpg" group-title="Georgia",Rustavi 2
-https://hls.t.stream-dns.net/hls/rustavi2/_14eedd588a452f825f540b3d72bb3d51_62534542x000d/rustavi2.m3u8
+http://tbs01-edge11.itdc.ge/rustavi2hqnew/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="AjaraTV.ge" tvg-logo="http://epg.it999.ru/img/2567.png" group-title="Georgia",Ajara TV
