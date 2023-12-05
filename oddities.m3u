@@ -81,13 +81,13 @@ https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="Dankosplus.rs" tvg-logo="https://i.imgur.com/eI0RTLb.png" group-title="Kosovo",Dankos TV
 http://46.19.227.130:4500/play/a04c/index.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="RTK1.xk" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:0 tvg-country="XK" tvg-id="RTK2.xk" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Kosovo",RTK 2
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/rtkhd1_720p/playlist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="RTK2.xk" tvg-logo="https://i.imgur.com/mRwV21A.jpg" group-title="Kosovo",RTK 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="RTK3.xk" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/xfp1dTO.png" group-title="Montenegro",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/QBUnspr.jpg" group-title="Montenegro",TVCG 2
