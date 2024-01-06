@@ -298,8 +298,10 @@ https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:0 tvg-country="TM" tvg-id="" tvg-logo="https://i.imgur.com/3tGNMIQ.png" group-title="Turkmenistan",Arkadag TV
 https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
-#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston 24
+#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/81LGV7C.jpg" group-title="Uzbekistan",O'zbekiston 24
 http://gohoski.fvds.ru:3000/mediabay/393/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
 #EXTINF:0 tvg-country="UZ" tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/oNvHoJw.jpg" group-title="Uzbekistan",Yoshlar
 http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8
 #EXTINF:0 tvg-country="UZ" tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/YFXRXhJ.jpg" group-title="Uzbekistan",Madaniyat va ma'rifat
