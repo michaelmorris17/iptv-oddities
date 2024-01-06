@@ -298,8 +298,14 @@ https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
 #EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston 24
 http://gohoski.fvds.ru:3000/mediabay/393/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/oNvHoJw.jpg" group-title="Uzbekistan",Yoshlar
+http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/YFXRXhJ.jpg" group-title="Uzbekistan",Madaniyat va ma'rifat
+http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Dunyoboylab.uz" tvg-logo="https://i.imgur.com/Ig3jaPG.jpg" group-title="Uzbekistan",Dunyo bo'ylab
+http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8
 #EXTINF:0 tvg-country="UZ" tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/XzSMgPL.png" group-title="Uzbekistan",Toshkent
-http://mhd219.iptv2022.com/p/RGQiSke0CXTwHTj5ozXGKQ,1659367219/streaming/toshkent/324/1/tracks-v3a1/mono.m3u8
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 #EXTINF:0 tvg-country="TJ" tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/9WVoaHl.jpg" group-title="Tajikistan",Tojikiston
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5876
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
