@@ -125,7 +125,7 @@ https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670
 #EXTINF:0 tvg-country="MD" tvg-id="GRT.md" tvg-logo="https://i.imgur.com/xRVo7ky.png" group-title="Gagauzia",GRT
 http://85.187.218.188:16002/play/a0bj/index.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
-https://iptv-hls.idc.md/hls/2/live2.m3u8
+https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/NJwia1H.png" group-title="Estonia",ETV2
@@ -138,6 +138,8 @@ http://89.254.128.5:22280/ltv1_hd/video.m3u8
 https://lituanica.lrt.lt/lituanica/master.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:0 tvg-country="AM" tvg-id="FirstChannelNews.am" tvg-logo="https://i.imgur.com/38D0du7.jpeg" group-title="Armenia",First Channel News
+https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/6ft8tR0.jpg" group-title="Georgia",1TV Ganatleba
@@ -213,7 +215,7 @@ http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
 http://osir.mediacdn.ru/cdn/osetia/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
-http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+http://109.239.208.82/zapad24/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/IFsZdcF.jpg" group-title="Kaliningrad",Каскад
 https://599da0b457148.streamlock.net:1936/kaskad2/tv/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/S1g0Hg7.jpg" group-title="Far Eastern Federal District (Russia)",Восток 24
@@ -311,7 +313,7 @@ http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8
 #EXTINF:0 tvg-country="UZ" tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/XzSMgPL.png" group-title="Uzbekistan",Toshkent
 http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 #EXTINF:0 tvg-country="TJ" tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/9WVoaHl.jpg" group-title="Tajikistan",Tojikiston
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5876
+http://50.7.218.122:8080/tvt1/index.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
 https://hls.rta.live/hls/stream.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
