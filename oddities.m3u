@@ -75,7 +75,7 @@ https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="BA" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:0 tvg-country="BA" tvg-id="RTRSPlus.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/RTRS_PLUS_logo.png" group-title="Republika Srpska",RTRS Plus
-http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/HbfPguv.png" group-title="Serbia",Sandžak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:0 tvg-country="XK" tvg-id="Dankosplus.rs" tvg-logo="https://i.imgur.com/eI0RTLb.png" group-title="Kosovo",Dankos TV
@@ -145,7 +145,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/6ft8tR0.jpg" group-title="Georgia",1TV Ganatleba
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/ZWh4iaw.jpg" group-title="Georgia",Rustavi 2
-http://tbs01-edge11.itdc.ge/rustavi2hqnew/index.m3u8
+https://bozztv.com/dvrfl05/gin-rustavi2/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="AjaraTV.ge" tvg-logo="http://epg.it999.ru/img/2567.png" group-title="Georgia",Ajara TV
@@ -333,7 +333,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNB.mn" tvg-logo="https://i.imgur.com/puxS9Sa.jpg" group-title="Mongolia",МҮОНТ-1
 https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNBMongolynMedee.mn" tvg-logo="https://i.imgur.com/ppxBG6R.jpg" group-title="Mongolia",Монголын Мэдээ
-http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
+http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8 
 #EXTINF:0 tvg-country="MN" tvg-id="" tvg-logo="https://i.imgur.com/oVtNriw.png" group-title="Mongolia",MNB Гэр бүл
 https://live.mnb.mn/live/mnb_family.stream/index.m3u8
 #EXTINF:0 tvg-country="MN" tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/HKDu7cw.jpg" group-title="Mongolia",MNB Спорт
