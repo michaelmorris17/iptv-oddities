@@ -89,7 +89,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/tracks
 #EXTINF:0 tvg-country="XK" tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="AL" tvg-id="RTSH1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1200px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Albania",RTSH 1
-http://79.106.48.2:5151/live/rtsh1ott/playlist.m3u8
+http://109.236.44.157:2121/rtsh
 #EXTINF:0 tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/xfp1dTO.png" group-title="Montenegro",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/QBUnspr.jpg" group-title="Montenegro",TVCG 2
