@@ -53,7 +53,7 @@ https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
 http://163.172.210.95:8000/play/a009/index.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="DikhTV.hu" tvg-logo="https://tematicmediagroup.com/en/images_channels/dikh.jpg" group-title="Hungary",Dikh TV
-https://nettv.flynet.hu/live/dikhtv.m3u8
+http://163.172.210.95:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-country="RO" tvg-id="ErdelyTV.ro" tvg-logo="https://i.imgur.com/UrGSLcL.jpg" group-title="Romania",Erdély TV
 http://94.53.216.16:9981/stream/channelid/605283746 
 #EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
