@@ -135,7 +135,7 @@ http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0 tvg-country="LV" tvg-id="LTV1.lv" tvg-logo="https://ltv.lsm.lv/storage/editor-files/9/6/3dd128fcb40fa72f46d4719a64309aa4.png" group-title="Latvia",LTV1
 http://89.254.128.5:22280/ltv1_hd/video.m3u8
 #EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png" group-title="Lithuania",LRT Lituanica
-https://lituanica.lrt.lt/lituanica/master.m3u8
+https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:0 tvg-country="AM" tvg-id="FirstChannelNews.am" tvg-logo="https://i.imgur.com/38D0du7.jpeg" group-title="Armenia",First Channel News
