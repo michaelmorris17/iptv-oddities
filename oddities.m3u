@@ -197,7 +197,7 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="GTRKGroznyj.ru" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kuban24Orbita.ru" tvg-logo="https://i.imgur.com/vtHWPuI.jpg" group-title="North Caucasus",Кубань 24
-http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
+http://77.232.132.204:8080/memfs/3bd60130-f90d-4938-a17e-d97c7410b0ba.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/aSFywEK.png" group-title="North Caucasus",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="NTKIngushetia.ru" tvg-logo="https://i.imgur.com/M8a2bAs.jpg" group-title="Ingushetia",Ингушетия ТВ
