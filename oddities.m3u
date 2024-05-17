@@ -319,7 +319,430 @@ http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 #EXTINF:0 tvg-country="TJ" tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/9WVoaHl.jpg" group-title="Tajikistan",Tojikiston
 http://50.7.218.122:8080/tvt1/index.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
-https://hls.rta.live/hls/stream.m3u8
+#EXTM3U
+#PLAYLIST:Oddities
+#EXTINF:0 tvg-country="SM" tvg-id="SanMarinoRTV.sm" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title="San Marino",RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="SM" tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Euskara",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="ETB2.es" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="Euskara",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/UutW62X.png" group-title="Euskara",Hamaika Telebista
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="324.es" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Catalonia",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="TV3CAT.es" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Catalonia",TV3CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG Europa
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="tvG2.es" tvg-logo="https://i.imgur.com/F3cOGmJ.jpg",tvG2
+https://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
+https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-id="RadioTelevisionMelilla.es" tvg-logo="https://i.imgur.com/aWkj75x.png" group-title="Melilla",Televisión Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="AD" tvg-id="AndorraTV.ad" tvg-logo="https://i.imgur.com/NGFPMkE.png" group-title="Andorra",RTVA
+https://videos.rtva.ad/live/rtva/index.m3u
+#EXTINF:0 tvg-country="LU" tvg-id="RTL.lu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Luxembourg",RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 tvg-country="LU" tvg-id="RTL2.lu" tvg-logo="https://www.coolstreaming.us/img/ch/image60879018065.jpg" group-title="Luxembourg",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 tvg-country="MC" tvg-id="TVMonaco.mc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/1920px-TVMonaco_2023.svg.png" group-title="Monaco",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2024/media.m3u8
+#EXTINF:0 tvg-country="MC" tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/IcfJm3q.jpg" group-title="Monaco",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:0 tvg-country="LI" tvg-id="KommuTV.li" tvg-logo="https://kommu.tv/files/themes/kommutv/img/logo.png" group-title="Liechtenstein",Kommu TV
+http://31.10.19.12:8066/live/999/0.m3u8
+#EXTINF:0 tvg-country="NL" tvg-id="OmropFryslanTV.nl" tvg-logo="https://i.imgur.com/D12P8bW.jpg" group-title="Netherlands",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:0 tvg-country="FO" tvg-id="KVFSjonvarp.fo" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Faroe Islands",KVF
+https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:0 tvg-country="UK" tvg-id="S4C.uk" tvg-logo="https://i.imgur.com/GKcMzG0.png" group-title="Wales",S4C
+http://45.153.35.224:8000/play/a00p
+#EXTINF:0 tvg-country="UK" tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/r09p7Nz.png" group-title="Scotland",BBC Alba
+http://51.195.5.44:8080/amc/index.m3u8
+#EXTINF:0 tvg-country="IE" tvg-id="TG4.ie" tvg-logo="https://i.imgur.com/PtlUYFD.png" group-title="Ireland",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:0 tvg-country="IS" tvg-id="N4.is" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Iceland",N4
+https://live.tv.c.is/n4/index.m3u8
+#EXTINF:0 tvg-country="GL" tvg-id="KNR1.gl" tvg-logo="https://i.imgur.com/Erfu5ij.png" group-title="Greenland",KNR1
+https://ythls.onrender.com/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
+#EXTINF:0 tvg-country="GL" tvg-id="KNR2.gl" tvg-logo="https://i.imgur.com/m1CXvPQ.jpg" group-title="Greenland",KNR2
+https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
+#EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
+http://163.172.210.95:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-country="HU" tvg-id="DikhTV.hu" tvg-logo="https://tematicmediagroup.com/en/images_channels/dikh.jpg" group-title="Hungary",Dikh TV
+http://163.172.210.95:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-country="RO" tvg-id="ErdelyTV.ro" tvg-logo="https://i.imgur.com/UrGSLcL.jpg" group-title="Romania",Erdély TV
+http://94.53.216.16:9981/stream/channelid/605283746 
+#EXTINF:0 tvg-country="SK" tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/cf2Zf4C.png" group-title="Slovakia",TV Romana
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:0 tvg-country="SI" tvg-id="TVKoperCapodistria.si" tvg-logo="https://i.imgur.com/mPSeGK1.png" group-title="Slovenia",TV Koper-Capodistria
+http://37.18.239.37:8000/play/14/index.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/JCoXAQx.png" group-title="Serbia",RTS 1
+http://141.95.33.183:80/RTS_1/index.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/DmpytDV.png" group-title="Serbia",RTS 2
+http://141.95.33.183:80/RTS_2/index.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTS3.rs" tvg-logo="https://i.imgur.com/xFwST0x.png" group-title="Serbia",RTS 3
+http://141.95.33.183:80/RTS_3/index.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/4fnNV3F.png" group-title="Vojvodina",RTV 1
+mmsh://212.200.255.151/rtv1
+#EXTINF:0 tvg-country="RS" tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/oCIXF9F.png" group-title="Vojvodina",RTV 2
+mmsh://212.200.255.151/rtv2
+#EXTINF:0 tvg-country="RS" tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
+https://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF:0 tvg-country="BA" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:0 tvg-country="BA" tvg-id="RTRSPlus.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/RTRS_PLUS_logo.png" group-title="Republika Srpska",RTRS Plus
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:0 tvg-country="RS" tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/HbfPguv.png" group-title="Serbia",Sandžak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="Dankosplus.rs" tvg-logo="https://i.imgur.com/eI0RTLb.png" group-title="Kosovo",Dankos TV
+http://46.19.227.130:4500/play/a04c/index.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="RTK1.xk" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/rtkhd1_720p/playlist.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="RTK2.xk" tvg-logo="https://i.imgur.com/mRwV21A.jpg" group-title="Kosovo",RTK 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/tracks-v4a1/mono.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="RTK3.xk" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/tracks-v4a1/mono.m3u8
+#EXTINF:0 tvg-country="XK" tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/tracks-v4a1/mono.m3u8
+#EXTINF:0 tvg-country="AL" tvg-id="RTSH1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1200px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Albania",RTSH 1
+http://109.236.44.157:2121/rtsh
+#EXTINF:0 tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/xfp1dTO.png" group-title="Montenegro",TVCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/QBUnspr.jpg" group-title="Montenegro",TVCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BA" tvg-id="RTVHB.ba" tvg-logo="https://i.imgur.com/cXgtTbQ.png" group-title="Bosnia & Herzegovina",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:0 tvg-country="BG" tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/E4secmc.png" group-title="Bulgaria",This Is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus1.by" tvg-logo="https://i.imgur.com/7OwQiAF.jpg" group-title="Belarus",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus2.by" tvg-logo="https://i.imgur.com/OpyoodA.jpg" group-title="Belarus",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus3.by" tvg-logo="https://i.imgur.com/RDL0h98.png" group-title="Belarus",Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus4.by" tvg-logo="https://i.imgur.com/UTN9WWu.png" group-title="Belarus",Беларусь 4 Витебск
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/dFdUAx5.jpg" group-title="Belarus",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/dFdUAx5.jpg" group-title="Belarus",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="Belarus24.by" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BY" tvg-id="ONT.by" tvg-logo="https://i.imgur.com/3qItFtI.png" group-title="Belarus",ОНТ
+http://194.158.222.36:6102
+#EXTINF:0 tvg-country="BY" tvg-id="STV.by" tvg-logo="https://iptvx.one/icn/stv-by.png" group-title="Belarus",СТВ
+http://194.158.222.36:6103
+#EXTINF:0 tvg-country="PL" tvg-id="BelsatTV.pl" tvg-logo="https://i.imgur.com/JUrKfq9.png" group-title="Poland",Belsat
+https://ythls.onrender.com/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
+#EXTINF:0 tvg-country="MD" tvg-id="Moldova1.md" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",M1
+http://188.241.32.110:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-country="MD" tvg-id="Moldova2.md" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
+http://212.0.211.102:9999/play/a00o/index.m3u8
+#EXTINF:0 tvg-country="MD" tvg-id="GRT.md" tvg-logo="https://i.imgur.com/xRVo7ky.png" group-title="Gagauzia",GRT
+http://85.187.218.188:16002/play/a0bj/index.m3u8
+#EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
+https://iptv-hls.idc.md/hls/2/live1.m3u8
+#EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
+http://sb.err.ee/live/etv.m3u8
+#EXTINF:0 tvg-country="EE" tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/NJwia1H.png" group-title="Estonia",ETV2
+http://sb.err.ee/live/etv2.m3u8
+#EXTINF:0 tvg-country="EE" tvg-id="ETVPlus.ee" tvg-logo="https://i.imgur.com/mrvgode.png" group-title="Estonia",ETV+
+http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0 tvg-country="LV" tvg-id="LTV1.lv" tvg-logo="https://ltv.lsm.lv/storage/editor-files/9/6/3dd128fcb40fa72f46d4719a64309aa4.png" group-title="Latvia",LTV1
+http://88.135.128.20:7272/tPAkF4jBwx4gvGi
+#EXTINF:0 tvg-country="LV" tvg-id="LTV7.lv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/1200px-LTV7_Logo_2021.svg.png" group-title="Latvia",LTV7
+http://88.135.128.20:7272/V7TDZTlhBTRzVf9
+#EXTINF:0 tvg-country="LT" tvg-id="LRTLituanica.lt" tvg-logo="https://i.imgur.com/Kzal5NF.png" group-title="Lithuania",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="AM" tvg-id="Armenia1TV.am" tvg-logo="https://i.imgur.com/kmvVPFH.jpg" group-title="Armenia",Armenia 1
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:0 tvg-country="AM" tvg-id="FirstChannelNews.am" tvg-logo="https://i.imgur.com/38D0du7.jpeg" group-title="Armenia",First Channel News
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/KWRomwe.jpg" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/6ft8tR0.jpg" group-title="Georgia",1TV Ganatleba
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/ZWh4iaw.jpg" group-title="Georgia",Rustavi 2
+https://bozztv.com/dvrfl05/gin-rustavi2/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/x4dACFs.png" group-title="Georgia",Imedi
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="AjaraTV.ge" tvg-logo="http://epg.it999.ru/img/2567.png" group-title="Georgia",Ajara TV
+http://176.74.80.162:8099/AdjaraTV/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/H07z3b2.jpg" group-title="Georgia",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png" group-title="Georgia",Rioni TV
+https://tbs01-edge11.itdc.ge/rioni/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/laZNl3R.jpg" group-title="Azerbaijan",AZTV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="TV21Ungvar.ua" tvg-logo="https://i.imgur.com/pYgrdnV.jpg" group-title="Ukraine",TV21 Ungvár
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:0 tvg-country="UA" tvg-id="UATV.ua" tvg-logo="https://i.imgur.com/CrDP2f1.png" group-title="Ukraine",Freedom
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/lwoNKeD.jpg" group-title="Ukraine",Первый Харьковский
+https://live.26region.tv/app3/stream_bypass/playlist.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://zapnews.ru/wp-content/themes/zapnews/images/logo_zatv.svg" group-title="Ukraine",За!
+https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/35g8MKN.jpg" group-title="Ukraine",Таврия ТВ
+https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
+http://92.242.110.52:9835/udp/238.1.12.9:1234
+#EXTINF:0 tvg-country="UA" tvg-id="NovorossiyaTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
+http://31.131.136.4:8001/play/e00h
+#EXTINF:0 tvg-country="UA" tvg-id="OplotTV.ru" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donbass",Оплот ТВ
+http://92.242.110.52:9835/udp/238.1.12.11:1234
+#EXTINF:0 tvg-country="UA" tvg-id="Oplot2.ru" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
+http://92.242.110.52:9835/udp/238.1.12.12:1234
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
+https://streaming.televizor-24-tochka.ru/live/27-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/SS1JMcT.jpg" group-title="Donbass",Луганск 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/T8EDzqx.png" group-title="Donbass",6 ТВ
+http://91.237.3.3:4022/udp/224.2.2.4:10000
+#EXTINF:0 tvg-country="RU" tvg-id="1Krim.ru" tvg-logo="https://i.imgur.com/XZ2E1au.jpg" group-title="Crimea",Первый крымский
+https://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="24Krim.ru" tvg-logo="https://i.imgur.com/PYhOBrS.png" group-title="Crimea",Крым 24
+https://live24.trkcrimea.ru/24tvcrimea.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Millet.ru" tvg-logo="https://i.imgur.com/JkSQS79.png" group-title="Crimea",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Arhyz24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" group-title="Karachay-Cherkessia",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="ChuvashEn.ru" tvg-logo="https://i.imgur.com/hxCYIqq.png" group-title="Chuvash Republic",Чӑваш ен
+https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="RGVKDagestan.ru" tvg-logo="https://i.imgur.com/iGsKhWv.png" group-title="Dagestan",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="GTRKGroznyj.ru" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtrk_groznyj_ru.png" group-title="Chechnya",ЧГТРК Грозный
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Kuban24Orbita.ru" tvg-logo="https://i.imgur.com/vtHWPuI.jpg" group-title="North Caucasus",Кубань 24
+http://77.232.132.204:8080/memfs/3bd60130-f90d-4938-a17e-d97c7410b0ba.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/aSFywEK.png" group-title="North Caucasus",Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="NTKIngushetia.ru" tvg-logo="https://i.imgur.com/M8a2bAs.jpg" group-title="Ingushetia",Ингушетия ТВ
+http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo"https://i.imgur.com/7V4MOWY.jpg" group-title="Ossetia",Алания 24
+http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/F7A6azT.png" group-title="Ossetia",Осетия-Ирыстон
+http://osir.mediacdn.ru/cdn/osetia/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/WLczvFA.png?1" group-title="Kaliningrad",Запад 24
+http://109.239.208.82/zapad24/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/IFsZdcF.jpg" group-title="Kaliningrad",Каскад
+https://599da0b457148.streamlock.net:1936/kaskad2/tv/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/S1g0Hg7.jpg" group-title="Far Eastern Federal District (Russia)",Восток 24
+http://109.126.27.2:6484/v24/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/XL2MpWu.png" group-title="Sakha",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/RZIqHxR.jpg" group-title="Sakha",Якутия 24
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/Nqlv73L.png" group-title="Sakha",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/XIk8T2E.png" group-title="Nenets",Север ТВ
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="YamalRegion.ru" tvg-logo="https://i.imgur.com/uE8TrHl.jpg" group-title="Nenets",Ямал ТВ
+https://live-yamalregion.cdnvideo.ru/yamalregionhd/yamalregionhd/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/LqqlRU6.png" group-title="Kamchatka",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/VoqsKsC.png" group-title="Sakhalin",АСТВ
+https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/Swze2VF.png" group-title="Khabarovsk Krai",Губерния Хабаровск
+https://media1.gubernia.com/hls/live.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="https://i.imgur.com/teZcns7.jpg" group-title="Abkhazia",АГТРК
+http://iptv.aimadara.com/225.1.110.1/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/NVnzhiK.jpg" group-title="Abkhazia",Абаза ТВ
+https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="https://i.imgur.com/W49oOVz.png" group-title="Abkhazia",Гагра ТВ
+http://91.207.180.142/gagra_tv/index.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="" group-title="Abkhazia",Apsny Music TV
+https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-112/dgl6-6o7n_1080p/chunklist_DVR.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/0kcsIBg.png" group-title="Russia",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Russia",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
+http://www.omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
+http://146.158.0.56/Nostalgiya/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-id="TRTAvaz.tr" tvg-logo="https://i.imgur.com/JUzK5IK.png" group-title="Turkey",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-country="TR" tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Turkey",TRT Kurdi
+http://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-country="CY" tvg-id="BRT1.cy" tvg-logo="https://i.imgur.com/8GocquE.png" group-title="Northern Cyprus",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="CY" tvg-id="BRT2.cy" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png" group-title="Northern Cyprus",BRT 2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="CY" tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/8SW6jIc.png" group-title="Cyprus",ΡΙΚ Sat
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:0 tvg-country="MT" tvg-id="TVM.mt" tvg-logo="https://i.imgur.com/kpe0fYu.png" group-title="Malta",TVM
+http://92.251.24.249:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-country="MT" tvg-id="TVMnewsPlus.mt" tvg-logo="https://i.imgur.com/CFcst4g.png" group-title="Malta",TVMnews+
+http://92.251.24.249:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-country="IL" tvg-id="Channel13.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/800px-New_Logo_13_2022.jpg" group-title="Israel",Reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:0 tvg-country="IL" tvg-id="Makan33.il" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="Israel",Makan 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
+#EXTINF:0 tvg-country="IL" tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png" group-title="Israel",Channel 9
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
+#EXTINF:0 tvg-country="PS" tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Palestine",Al Aqsa
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 tvg-country="LB" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-id="" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/ciQX4T3.jpg" group-title="Kazakhstan",Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-id="JibekJoly.kz" tvg-logo="https://ptrk.kz/wp-content/uploads/2023/01/jj-600.png" group-title="Kazakhstan",Jibek Joly (ENG)
+http://ikomg3.mmdlive.lldns.net/ikomg3/d4c3d429111741509dbd16cd1bc7b543/manifest.m3u8
+#EXTINF:0 tvg-country="KG" tvg-id="UTRK.kg" tvg-logo="https://i.imgur.com/Q60iqZP.png" group-title="Kyrgyzstan",УТРК Кыргызстан
+https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8
+#EXTINF:0 tvg-country="KG" tvg-id="AlaToo24.kg" tvg-logo="https://i.imgur.com/d1q6BBI.jpg" group-title="Kyrgyzstan",УТРК Ала-Тоо 24
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:0 tvg-country="KG" tvg-id="AlaToo24.kg" tvg-logo="https://i.imgur.com/KhBFY8l.png" group-title="Kyrgyzstan",Ала-тоо 24
+https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/jxPDapY.png" group-title="Turkmenistan",Altyn Asyr TV
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Yaslyk.tm" tvg-logo="https://i.imgur.com/PK64fa6.png" group-title="Turkmenistan",Ýaşlyk TV
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/jL8SzED.png" group-title="Turkmenistan",Miras
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/t44c6J0.png" group-title="Turkmenistan",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/zuO98pY.png" group-title="Turkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Asgabat.tm" tvg-logo="https://i.imgur.com/tXyS5l0.png" group-title="Turkmenistan",Aşgabat TV
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/cmjDco7.png" group-title="Turkmenistan",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+#EXTINF:0 tvg-country="TM" tvg-id="" tvg-logo="https://i.imgur.com/3tGNMIQ.png" group-title="Turkmenistan",Arkadag TV
+https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/81LGV7C.jpg" group-title="Uzbekistan",O'zbekiston 24
+http://gohoski.fvds.ru:3000/mediabay/393/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/JSXcnv2.png" group-title="Uzbekistan",O'zbekiston
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/oNvHoJw.jpg" group-title="Uzbekistan",Yoshlar
+http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/YFXRXhJ.jpg" group-title="Uzbekistan",Madaniyat va ma'rifat
+http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Dunyoboylab.uz" tvg-logo="https://i.imgur.com/Ig3jaPG.jpg" group-title="Uzbekistan",Dunyo bo'ylab
+http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/XzSMgPL.png" group-title="Uzbekistan",Toshkent
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
+#EXTINF:0 tvg-country="TJ" tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/9WVoaHl.jpg" group-title="Tajikistan",Tojikiston
+http://50.7.218.122:8080/tvt1/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="MRTV.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png" group-title="Myanmar",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="MRTV4.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png" group-title="Myanmar",MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:0 tvg-country="MM" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png" group-title="Myanmar",MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:0 tvg-country="KH" tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="Cambodia",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:0 tvg-country="KH" tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BfeRFnn.jpg" group-title="Cambodia",TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="MNB.mn" tvg-logo="https://i.imgur.com/puxS9Sa.jpg" group-title="Mongolia",МҮОНТ-1
+https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="MNBMongolynMedee.mn" tvg-logo="https://i.imgur.com/ppxBG6R.jpg" group-title="Mongolia",Монголын Мэдээ
+http://202.21.104.6:88/mnb-2/index.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="" tvg-logo="https://i.imgur.com/oVtNriw.png" group-title="Mongolia",MNB Гэр бүл
+https://live.mnb.mn/live/mnb_family.stream/index.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/HKDu7cw.jpg" group-title="Mongolia",MNB Спорт
+https://live.mnb.mn/live/mnb_sport.stream/index.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="MNBWorld.mn" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="Mongolia",MNB World
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:0 tvg-country="MN" tvg-id="TV5.mn" tvg-logo="https://i.imgur.com/TUazcc5.jpg" group-title="Mongolia",TV5
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/lKbD2ZX.png" group-title="Inner Mongolia",内蒙古卫视 (NMTV)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/F5D61Ul.jpg" group-title="Tibet",西藏藏語 (Tibet TV)
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/F5D61Ul.jpg" group-title="Tibet",西藏卫视 (Xizang Satellite TV)
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-id="" tvg-logo="https://i.imgur.com/XNjXQhm.png" group-title="Xinjiang",新疆卫视 (Xinjiang Satellite TV)
+http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:0 tvg-country="MO" tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Macau",Canal Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 tvg-country="HK" tvg-id="RTHKTV31.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/512px-RTHK_TV_31.svg.png" group-title="Hong Kong",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="KP" tvg-id="KoreanCentralTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" group-title="North Korea",Korean Central Television (KCTV)
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:0 tvg-country="CA" tvg-id="CBFT.ca" tvg-logo="https://i.imgur.com/FPoF51E.png" group-title="Canada",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-id="ICIRadioCanadaRDI.ca" tvg-logo="https://i.imgur.com/3CC0Rs1.png" group-title="Canada",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-id="UvagutTV.ca" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Canada",Uvagut TV
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-id="NASATV.us" tvg-logo="https://i.imgur.com/rswIaum.png" group-title="USA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 tvg-country="AW" tvg-id="Telearuba.aw" tvg-logo="https://i.imgur.com/Qkcq0BW.png" group-title="Aruba",Telearuba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:0 tvg-country="BQ" tvg-id="NosTVBonaire.bq" tvg-logo="https://i.imgur.com/AxD4cVM.png" group-title="Bonaire",Nos TV Bonaire 
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:0 tvg-country="CW" tvg-id="TeleCuracao.cw" tvg-logo="https://i.imgur.com/zNLoQ3g.jpg" group-title="Curaçao",TeleCuraçao
+http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
+#EXTINF:0 tvg-country="KN" tvg-id="" tvg-logo="https://i.imgur.com/szllifw.jpg" group-title="St. Kitts & Nevis",ZIZ
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/index.m3u8
+#EXTINF:0 tvg-country="VG" tvg-id="" tvg-logo="https://i.imgur.com/O8FJirJ.jpg" group-title="British Virgin Islands",CBN
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/index.m3u8
+#EXTINF:0 tvg-country="MQ" tvg-id="Martinique1ere.mq" tvg-logo="https://cdn-profiles.tunein.com/s24893/images/logod.png" group-title="Martinique",Martinique la 1ère
+https://ythls.onrender.com/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="CubaVision.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Cuba",CubaVision
+http://177.52.221.214:8000/play/a0dc/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="TeleRebelde.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TELEREBELDE_2011.png" group-title="Cuba",Tele Rebelde
+http://177.52.221.214:8000/play/a0dd/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/b/xcubavision.jpg.pagespeed.ic.mIAweMkGnp.jpg" group-title="Cuba",Cubavisión
+http://190.122.96.187:8888/http/010
+#EXTINF:0 tvg-country="CU" tvg-id="CanalEducativo.cu" tvg-logo="https://i.imgur.com/1cBeOEh.png" group-title="Cuba",Canal Educativo
+http://177.52.221.214:8000/play/a0dw/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="CanalEducativo2.cu" tvg-logo="https://i.imgur.com/nrfB7Ql.png" group-title="Cuba",Canal Educativo 2
+http://177.52.221.214:8000/play/a0dx/index.m3u8
+#EXTINF:0 tvg-country="CU" tvg-id="PrensaLatinaTV.cu" tvg-logo="https://i.imgur.com/Izq9TTM.jpeg" group-title="Cuba",Prensa Latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:0 tvg-country="BO" tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/gUAeTmw.jpg" group-title="Bolivia",Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-country="CL" tvg-id="ITVPatagonia.cl" tvg-logo="https://i.imgur.com/bGPk8Hp.png" group-title="Chile",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CL" tvg-id="ElPinguinoTV.cl" tvg-logo="https://i.imgur.com/rFhkaLP.jpg" group-title="Chile",El Pingüino TV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
+#EXTINF:0 tvg-country="CL" tvg-id="" tvg-logo="https://i.imgur.com/0dNsQ94.png" group-title="Chile",Polar TV
+https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8
+#EXTINF:0 tvg-country="AR" tvg-id="TVPublicaFueguina.ar" tvg-logo="https://i.imgur.com/VksZGKm.png" group-title="Tierra del Fuego",Televisión Pública Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+#EXTINF:0 tvg-country="VZ" tvg-id="TelesurEnglish.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Venezuela",Telesur (English)
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 tvg-country="VZ" tvg-id="VenezolanadeTelevision.ve" tvg-logo="https://i.imgur.com/RlbYtzp.png" group-title="Venezuela",Venezolana de Televisión
+https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
+#EXTINF:0 tvg-country="ET" tvg-id="ETVEntertainment.et" tvg-logo="https://i.imgur.com/eprtGAB.jpg" group-title="Ethiopia",ETV Entertainment
+https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
+#EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
+#EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
+#EXTINF:0 tvg-country="GQ" tvg-id="TVGEInternacional.gq" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:0 tvg-country="EH" tvg-id="RASDTV.eh" tvg-logo="https://i.imgur.com/LDcMz2j.jpg" group-title="Western Sahara",RASD TV
+https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
+#EXTINF:0 tvg-country="MA" tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/COkxauJ.png" group-title="Morocco",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+#EXTINF:0 tvg-country="NZ" tvg-id="WhakaataMaori.nz" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="New Zealand",Whakaata Māori
+https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index.m3u8
+#EXTINF:0 tvg-country="NZ" tvg-id="TeReo.nz" tvg-logo="https://i.imgur.com/3CNvYUN.png" group-title="New Zealand",Te Reo
+https://dfecjp0pnemzw.cloudfront.net/out/v1/17ebe8fca7604907ae99719663dd2519/index.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
