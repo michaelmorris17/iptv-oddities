@@ -119,9 +119,9 @@ http://194.158.222.36:6103
 #EXTINF:0 tvg-country="PL" tvg-id="BelsatTV.pl" tvg-logo="https://i.imgur.com/JUrKfq9.png" group-title="Poland",Belsat
 https://ythls.onrender.com/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="Moldova1.md" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",M1
-http://188.241.32.110:8000/play/a00y/index.m3u8
+https://v.trm.md/static/streaming-playlists/hls/27fdea12-5fc4-42b3-afdd-c661399fed1d/0.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="Moldova2.md" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
-http://212.0.211.102:9999/play/a00o/index.m3u8
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/0.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="GRT.md" tvg-logo="https://i.imgur.com/xRVo7ky.png" group-title="Gagauzia",GRT
 http://85.187.218.188:16002/play/a0bj/index.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
