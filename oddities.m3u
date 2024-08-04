@@ -124,6 +124,8 @@ https://v.trm.md/static/streaming-playlists/hls/27fdea12-5fc4-42b3-afdd-c661399f
 https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/0.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="GRT.md" tvg-logo="https://i.imgur.com/xRVo7ky.png" group-title="Gagauzia",GRT
 http://185.163.194.185:7432/168/mpegts
+#EXTINF:0 tvg-country="MD" tvg-id="ATV.md" tvg-logo="https://i.imgur.com/FnM8SdO.png" group-title="Gagauzia",ATV
+http://185.163.194.185:7432/138/mpegts
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
