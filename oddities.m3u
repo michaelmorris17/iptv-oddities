@@ -17,7 +17,7 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wvkE4bx.png" group-title="Galicia",TVG Europa
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="tvG2.es" tvg-logo="https://i.imgur.com/F3cOGmJ.jpg",tvG2
-https://events2-crtvg.flumotion.com/playlist.m3u8
+https://events3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="" tvg-logo="https://i.imgur.com/qG4JC8H.jpg" group-title="Ceuta",Radio Televisión Ceuta
 https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-id="RadioTelevisionMelilla.es" tvg-logo="https://i.imgur.com/aWkj75x.png" group-title="Melilla",Televisión Melilla
@@ -169,7 +169,7 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/lwoNKeD.jpg" group-title="Ukraine",Первый Харьковский
 https://live.26region.tv/app3/stream_bypass/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://zapnews.ru/wp-content/themes/zapnews/images/logo_zatv.svg" group-title="Ukraine",За!
-https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://91.207.114.220:9001/play/a05n/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/35g8MKN.jpg" group-title="Ukraine",Таврия ТВ
 https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="Pervyyrespublikanskiy.ru" tvg-logo="http://www.frocus.net/images/logotv/original/dnr-tv.jpg" group-title="Donbass",Первый республиканский
