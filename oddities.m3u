@@ -239,7 +239,7 @@ https://media1.gubernia.com/hls/live.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="https://i.imgur.com/teZcns7.jpg" group-title="Abkhazia",АГТРК
 http://iptv.aimadara.com/225.1.110.1/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/NVnzhiK.jpg" group-title="Abkhazia",Абаза ТВ
-https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="https://i.imgur.com/W49oOVz.png" group-title="Abkhazia",Гагра ТВ
 http://91.207.180.142/gagra_tv/index.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="" tvg-logo="" group-title="Abkhazia",Apsny Music TV
