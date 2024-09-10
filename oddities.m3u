@@ -253,7 +253,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="" tvg-logo="https://i.imgur.com/TIrP4Mn.png" group-title="Russia",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/GCAplKs.png" group-title="Russia",Ностальгия ТВ
-http://146.158.0.56/Nostalgiya/index.m3u8
+http://91.205.199.3/nostalgia/index.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/Emss0Lk.png" group-title="Russia-Belarus",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-id="TVBRICSEnglish.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="International",TV BRICS
