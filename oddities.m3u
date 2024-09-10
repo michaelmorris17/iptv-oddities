@@ -279,7 +279,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u
 #EXTINF:0 tvg-country="IL" tvg-id="Channel9.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Arutz_9_logo.png" group-title="Israel",Channel 9
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 #EXTINF:0 tvg-country="PS" tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Palestine",Al Aqsa
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:0 tvg-country="LB" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="Kazakhstan",Qazaqstan HD
