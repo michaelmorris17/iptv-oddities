@@ -160,6 +160,8 @@ http://176.74.80.162:8099/AdjaraTV/index.m3u8
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/KkInSXl.png" group-title="Georgia",Rioni TV
 https://tbs01-edge11.itdc.ge/rioni/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="GE" tvg-id="TVMonitoringi.ge" tvg-logo="https://i.imgur.com/EN6xNHZ.png" group-title="Georgia",TV Monitoringi
+http://2.57.217.197:8080/play/a02i/index.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/laZNl3R.jpg" group-title="Azerbaijan",AZTV
 https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://i.imgur.com/fVPKY7U.jpg" group-title="Ukraine",Первый городской Одесса
@@ -332,6 +334,8 @@ https://live.teleradiocom.tj/3/3m.m3u8
 https://live.teleradiocom.tj/4/3m.m3u8
 #EXTINF:0 tvg-country="AF" tvg-id="RTA.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA Afghanistan
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-id="RTANews.af" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta_af_tv.png" group-title="Afghanistan",RTA News
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/dfAxO7A.png" group-title="Maldives",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:0 tvg-country="MV" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/aoPBUAq.png" group-title="Maldives",Raajje TV
