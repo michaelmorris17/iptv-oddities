@@ -51,7 +51,7 @@ https://ythls.armelin.one/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
 #EXTINF:0 tvg-country="GL" tvg-id="KNR2.gl" tvg-logo="https://i.imgur.com/m1CXvPQ.jpg" group-title="Greenland",KNR2
 https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="M1.hu" tvg-logo="https://i.imgur.com/KICQnve.png" group-title="Hungary",M1
-http://163.172.210.95:8000/play/a009/index.m3u8
+https://ythls.armelin.one/channel/UCHJ8gW2vKH5R3VohymtBCrQ.m3u8
 #EXTINF:0 tvg-country="HU" tvg-id="DikhTV.hu" tvg-logo="https://tematicmediagroup.com/en/images_channels/dikh.jpg" group-title="Hungary",Dikh TV
 http://163.172.210.95:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-country="RO" tvg-id="ErdelyTV.ro" tvg-logo="https://i.imgur.com/UrGSLcL.jpg" group-title="Romania",Erdély TV
