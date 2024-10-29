@@ -185,9 +185,9 @@ http://iptv.mega.net.ru:8888/1_Respublikanskii/mono.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="NovorossiyaTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="Donbass",Новороссия ТВ
 http://iptv.mega.net.ru:8888/novorossiya/mono.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="OplotTV.ru" tvg-logo="https://i.imgur.com/0eZ7Iyt.png" group-title="Donbass",Оплот ТВ
-http://iptv.mega.net.ru:8888/Oplot_HD/mono.m3u8
+http://130.193.73.10:8937/play/a003
 #EXTINF:0 tvg-country="UA" tvg-id="Oplot2.ru" tvg-logo="https://i.imgur.com/b6Nsoz8.png" group-title="Donbass",Оплот 2
-http://iptv.mega.net.ru:8888/Oplot_2/mono.m3u8
+http://130.193.73.10:8937/play/a004
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/hVIMLra.png" group-title="Donbass",Юнион ТВ
 http://iptv.mega.net.ru:8888/Union/mono.m3u8
 #EXTINF:0 tvg-country="UA" tvg-id="" tvg-logo="https://i.imgur.com/SS1JMcT.jpg" group-title="Donbass",Луганск 24
