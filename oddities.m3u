@@ -69,9 +69,9 @@ http://5.206.237.85:8600/play/a03k/index.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="RTS3.rs" tvg-logo="https://i.imgur.com/xFwST0x.png" group-title="Serbia",RTS 3
 http://5.206.237.85:8600/play/a03v/index.m3u8
 #EXTINF:0 tvg-country="RS" tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/4fnNV3F.png" group-title="Vojvodina",RTV 1
-mmsh://212.200.255.151/rtv1
+rtmp://212.200.230.50/RTV/rtv1
 #EXTINF:0 tvg-country="RS" tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/oCIXF9F.png" group-title="Vojvodina",RTV 2
-mmsh://212.200.255.151/rtv2
+rtmp://212.200.230.50/RTV/rtv2
 #EXTINF:0 tvg-country="RS" tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="Vojvodina",Pannon RTV
 https://stream.unrealhosting.hu:4102/live.m3u8
 #EXTINF:0 tvg-country="BA" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/EsOd6nH.png" group-title="Republika Srpska",RTRS
