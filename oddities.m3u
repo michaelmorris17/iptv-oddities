@@ -134,6 +134,8 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 http://62.233.57.226:8001/play/a00f00
 #EXTINF:0 tvg-country="MD" tvg-id="ATV.md" tvg-logo="https://i.imgur.com/FnM8SdO.png" group-title="Gagauzia",ATV
 http://185.163.194.185:7432/138/mpegts
+#EXTINF:0 tvg-country="MD" tvg-id="NTSTV.md" tvg-logo="https://ntstv.md/wp-content/uploads/2024/05/logo_nts_blue.png" group-title="Gagauzia",NTS TV
+http://62.233.57.226:8001/play/a00d
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
