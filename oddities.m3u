@@ -118,7 +118,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-id="Belarus24.by" tvg-logo="https://pbs.twimg.com/profile_images/1209561470977138688/q2buJHUB_400x400.jpg" group-title="Belarus",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0 tvg-country="BY" tvg-id="" tvg-logo="https://i.imgur.com/KqV2hbG.png" group-title="Belarus",Первый информационный
+#EXTINF:0 tvg-country="BY" tvg-id="PerviyInformationniy.by" tvg-logo="https://i.imgur.com/KqV2hbG.png" group-title="Belarus",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BY" tvg-id="ONT.by" tvg-logo="https://i.imgur.com/3qItFtI.png" group-title="Belarus",ОНТ
 http://194.158.222.36:6102
@@ -131,7 +131,7 @@ https://v.trm.md/static/streaming-playlists/hls/27fdea12-5fc4-42b3-afdd-c661399f
 #EXTINF:0 tvg-country="MD" tvg-id="Moldova2.md" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",M2
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 #EXTINF:0 tvg-country="MD" tvg-id="GRT.md" tvg-logo="https://i.imgur.com/xRVo7ky.png" group-title="Gagauzia",GRT
-http://185.163.194.185:7432/168/mpegts
+http://62.233.57.226:8001/play/a00f00
 #EXTINF:0 tvg-country="MD" tvg-id="ATV.md" tvg-logo="https://i.imgur.com/FnM8SdO.png" group-title="Gagauzia",ATV
 http://185.163.194.185:7432/138/mpegts
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
