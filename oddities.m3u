@@ -431,9 +431,11 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:0 tvg-country="VZ" tvg-id="VenezolanadeTelevision.ve" tvg-logo="https://i.imgur.com/RlbYtzp.png" group-title="Venezuela",Venezolana de Televisión
 https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
 #EXTINF:0 tvg-country="ET" tvg-id="ETVEntertainment.et" tvg-logo="https://i.imgur.com/eprtGAB.jpg" group-title="Ethiopia",ETV Entertainment
-https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
+http://196.188.32.27:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-country="ET" tvg-id="ETVNews.et" tvg-logo="https://i.imgur.com/Ex8OXOu.png" group-title="Ethiopia",ETV News
+http://196.188.32.27:8000/play/a00r/index.m3u8
 #EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10963
+http://196.188.32.27:8000/play/a024/index.m3u8
 #EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
 #EXTINF:0 tvg-country="GQ" tvg-id="TVGEInternacional.gq" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
