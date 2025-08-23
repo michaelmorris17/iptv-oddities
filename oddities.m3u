@@ -135,7 +135,7 @@ http://62.233.57.226:8001/play/a00f00
 #EXTINF:0 tvg-country="MD" tvg-id="ATV.md" tvg-logo="https://i.imgur.com/FnM8SdO.png" group-title="Gagauzia",ATV
 http://62.233.57.226:8001/play/a00900
 #EXTINF:0 tvg-country="MD" tvg-id="NTSTV.md" tvg-logo="https://ntstv.md/wp-content/uploads/2024/05/logo_nts_blue.png" group-title="Gagauzia",NTS TV
-http://62.233.57.226:8001/play/a00d
+http://5.56.77.9:50000
 #EXTINF:0 tvg-country="MD" tvg-id="" tvg-logo="https://i.imgur.com/u78XlqV.jpg" group-title="Transnistria",TCB
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:0 tvg-country="EE" tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/HyMMQWA.png" group-title="Estonia",ETV
