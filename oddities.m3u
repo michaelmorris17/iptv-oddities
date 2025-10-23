@@ -435,7 +435,7 @@ http://196.188.32.27:8000/play/a00b/index.m3u8
 #EXTINF:0 tvg-country="ET" tvg-id="ETVNews.et" tvg-logo="https://i.imgur.com/Ex8OXOu.png" group-title="Ethiopia",ETV News
 http://196.188.32.27:8000/play/a00r/index.m3u8
 #EXTINF:0 tvg-country="ER" tvg-id="ERITV1.er" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="Eritrea",ERI-TV
-http://196.188.32.27:8000/play/a024/index.m3u8
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:0 tvg-country="SO" tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia",Somali National TV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
 #EXTINF:0 tvg-country="GQ" tvg-id="TVGEInternacional.gq" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
